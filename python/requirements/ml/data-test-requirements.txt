@@ -12,7 +12,7 @@ google-cloud-core
 google-cloud-bigquery-storage
 google-api-core
 webdataset
-raydp==1.7.0b20250423.dev0
+raydp==1.7.0b20260131.dev0
 pylance==0.22
 delta-sharing
 deltalake==0.9.0

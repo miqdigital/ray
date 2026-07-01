@@ -8,7 +8,7 @@ ax-platform==1.2.1
 jaxtyping<0.3.8
 
 
-bayesian-optimization==1.4.3
+bayesian-optimization==3.3.0
 
 # BOHB
 ConfigSpace==0.7.1; python_version < "3.12"

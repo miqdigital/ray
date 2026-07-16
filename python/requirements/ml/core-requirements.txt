@@ -1,7 +1,7 @@
 # ML tracking integrations
 comet-ml==3.44.1
 mlflow>=3.0.0
-wandb>=0.23.1
+wandb>=0.28.0
 
 # ML training frameworks
 xgboost==2.1.0

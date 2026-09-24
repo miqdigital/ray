@@ -2,7 +2,7 @@
 ax-platform==1.2.1
 # Python 3.13 only: no jaxtyping cap here; default tune-requirements.txt uses jaxtyping<0.3.8 for Python 3.10.
 
-bayesian-optimization>=1.4.0
+bayesian-optimization>=3.3.0
 
 # BOHB
 ConfigSpace>=0.7.1; python_version < "3.12"
